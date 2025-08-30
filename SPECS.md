@@ -15,7 +15,7 @@ This document outlines the specifications for the AI Agent application, detailin
 ## Architecture
 
 - Backend: RESTful API using FastAPI
-- Frontend:
+- Frontend: ?
 - Database: PostgreSQL for persistent storage
 - AI Models: Integration with OpenAI and other LLM providers
 
